@@ -18,22 +18,8 @@ This project follows a structured organization to facilitate development, mainte
 
 
 
+![image](https://github.com/v-gup23/INF653-final-project-api/assets/143101323/b5bab345-f29b-49dc-a875-10a01785d5c7)
 
-project/
-
-|-- config/
-|   |-- db.js
-|-- models/
-|   |-- State.js
-|-- controllers/
-|   |-- statesController.
-|-- middleware/
-|   |-- checkState.js
-|-- routes/
-|   |-- states.js
-|-- states.json
-|-- server.js
-|-- package.json
 
 
 ## Details
@@ -89,7 +75,8 @@ The API is accessible via the following base URL: `TO BE ADDED`
 
 This project is deployed on Glitch and can be accessed at the following URL:
 
-[LINK]()
+
+[LINK](https://inf653-final-project-api.onrender.com/)
 
 
 ## Data base
