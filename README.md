@@ -75,6 +75,7 @@ The API is accessible via the following base URL: `TO BE ADDED`
 
 This project is deployed on Glitch and can be accessed at the following URL:
 
+![image](https://github.com/v-gup23/INF653-final-project-api/assets/143101323/583b42b9-673e-4ae9-be75-17f7281562fa)
 
 [LINK](https://inf653-final-project-api.onrender.com/)
 
