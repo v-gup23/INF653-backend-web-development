@@ -10,10 +10,17 @@ This RESTful API was developed as the final project for the INF653 Back End Web 
 - Access detailed state information such as capital, nickname, population, and admission date.
 - Perform CRUD operations (Create, Read, Update, Delete) for fun facts associated with specific states.
 
-## Folder Structure 
+# Project Structure
+
+This project follows a structured organization to facilitate development, maintenance, and scalability.
+
+## Directory Structure
+
+
 
 
 project/
+
 |-- config/
 |   |-- db.js
 |-- models/
@@ -27,6 +34,25 @@ project/
 |-- states.json
 |-- server.js
 |-- package.json
+
+
+## Details
+
+### `models/`
+   Contains model definitions. For example, `State.js` defines the structure and behavior of the State entity.
+
+### `routes/`
+   Routing configurations reside here. `states.js` defines routes related to state operations.
+
+### `states.json`
+   Contains sample data or initial state information in JSON format.
+
+### `server.js`
+   The entry point of the application.
+
+### `package.json`
+   Metadata about the project, including dependencies required for the project's execution and development.
+
 
 
 ## Usage
