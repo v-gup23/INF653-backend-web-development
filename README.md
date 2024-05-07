@@ -43,7 +43,7 @@ This project follows a structured organization to facilitate development, mainte
 
 ## Usage
 
-The API is accessible via the following base URL: `TO BE ADDED`
+The API is accessible via the following base URL: [LINK](https://inf653-final-project-api.onrender.com/)
 
 ## Endpoints
 
